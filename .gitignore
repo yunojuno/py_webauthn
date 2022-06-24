@@ -108,3 +108,5 @@ venv.bak/
 py_webauthn.env
 webauthn.db
 .DS_Store
+db.sqlite3
+
